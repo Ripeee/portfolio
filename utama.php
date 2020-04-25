@@ -16,6 +16,21 @@
 
   <body>
     
+       <!-- Header -->
+  <header>
+    <div class="header-logo">B14</div>
+      <div class="header-list">
+        <ul>
+          <li><a href="#">Profil</a></li>
+          <li><a href="#">Tentang</a></li>
+          <li><a href="#">Testimonial</a></li>
+          <li><a href="#">Hubungi Kami</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+      <!-- Akhir Header --> 
+  
       <!-- Bagian Utama -->
     <div class="top-wrapper">
       <div class="container">
