@@ -12,8 +12,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="stylesheet.css">
   </head>
- <!-- Navbar-->
-
+  
   <body>
     
        <!-- Header -->
@@ -42,5 +41,38 @@
       </div>
     </div>
       <!-- Akhir Bagian utama -->
+  
+      <!-- Bagian Extra -->
+  <div class="main">     
+    <div class="contents">
+      <h3 class="section-title">Profile Team DTS_B14</h3>
+      <div class="contents-item">
+        <img src="img/ari.jpg" class="img-responsive">
+        <p>ARI PURNOMO AJI<br>
+        0447677131-104</p>
+      </div>
+      <div class="contents-item">
+        <img src="img/andrian.jpg" class="img-responsive">
+        <p>ANDRIAN JULIANSYAH<br>
+        0447677021-98</p>
+      </div>
+      <div class="contents-item">
+        <img src="img/angga.jpg" class="img-responsive">
+        <p>ANGGA MAHENDRA<br>
+        0447677021-98</p>
+      </div>
+      <div class="contents-item">
+        <img src="img/anggun.jpg" class="img-responsive">
+        <p>ANGGUN MUSTIKASARI DEWI<br>
+        0447677120-43</p>
+      </div>
+      <div class="contents-item">
+        <img src="img/yuni.jpg" class="img-responsive">
+        <p>AYUNI SARI<br>
+        0447677030-25</p>
+      </div>
+    </div>
+  </div>
+          <!-- Akhir Bagian Extra -->
   </body>
 </html>
