@@ -1,4 +1,4 @@
-# Project Tim DTS-B14
+# Portfolio Ripeee
 a. Command Line
 b. Git
 c. Salah satu anggota ditugaskan untuk membuat akun GitHub dan mem-publish halaman web nanti apabila sudah jadi
@@ -11,7 +11,7 @@ c. Salah satu anggota ditugaskan untuk membuat akun GitHub dan mem-publish halam
 -----Anda tanpa arahan dan atau instruksi apapun. Website Anda harus memiliki:
 - Header
 - Bagian Utama
-- Bagian extra 1a
+- Bagian extra 1
 - Bagian extra 2
 - Footer
 - Setidaknya satu animasi.
